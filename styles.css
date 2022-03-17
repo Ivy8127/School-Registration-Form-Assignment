@@ -38,15 +38,16 @@ legend {
 }
 
 #number {
-  width: 150px;
+  width: 350px;
 }
 div + div {
   margin-top: 1em;
   }
 
-input {
-  width: 200px;
-
+#email,#address,#name,#number{
+  width: 350px;
+  height: 50px;
+  font-size: 18px;
 /*   -moz-box-sizing: border-box;
        box-sizing: border-box; */
   border: 1px solid #999;
